@@ -1,0 +1,18 @@
+
+em{
+    font-weight: bolder;
+}
+
+a{
+    color:black;
+}
+
+.top-section{
+    border:1px solid black;
+    padding: 15px 20px;;
+}
+
+ol{
+    padding: 0 20px;
+    margin: 0;
+}
